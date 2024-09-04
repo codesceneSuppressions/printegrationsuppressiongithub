@@ -712,6 +712,60 @@ public final class Modules {
       binder.requireExactBindingAnnotations();
     }
   }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
+  private static final class RequireExactBindingAnnotationsModule implements Module {
+    @Override
+    public void configure(Binder binder) {
+      binder.requireExactBindingAnnotations();
+    }
+  }
 
   /**
    * Returns a module that will configure the injector to disable circular proxies.
